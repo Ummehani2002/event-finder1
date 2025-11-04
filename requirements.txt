@@ -1,1 +1,3 @@
-SERP_API_KEY = "808e9eb85adc2da256f83bb263b7184b2199f64cf214b53f2e4272f5b7aafd08"
+streamlit==1.27.0
+pandas==2.1.1
+requests==2.31.0
